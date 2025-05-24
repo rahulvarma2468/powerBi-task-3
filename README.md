@@ -1,6 +1,6 @@
 # powerBi-task-3
 
-# **Company name** : CODETECH IT SOLUTIONS
+# **Company name** : CODTECH IT SOLUTIONS
 # **Name** : Mudunuru Rahul varma
 # **Intern ID** :CT04DN302
 # **Domain** : Power BI
