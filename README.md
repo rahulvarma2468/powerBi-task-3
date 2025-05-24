@@ -114,4 +114,5 @@ In conclusion, setting up a real-time dashboard in Power BI—whether with Azure
 
 # OUTPUT
 
+![Image](https://github.com/user-attachments/assets/d658fe5e-ad3d-4b41-9e5e-bf637b86a9fe)
 
